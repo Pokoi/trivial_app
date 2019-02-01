@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="utf-8"?>
+<questions>
+    <question>
+       <title> ¿En qué año fue estrenado el Pong?</title>
+        <answer> 1969 </answer>
+        <answer> 1972 </answer>
+        <answer> 1976 </answer>
+        <correct_answer>2</correct_answer>
+        <category>arcade</category>
+    </question>
+    <question>
+        <title> ¿En qué año fue estrenado el Pacman?</title>
+        <answer> 1975 </answer>
+        <answer> 1977 </answer>
+        <answer> 1980 </answer>
+        <correct_answer>3</correct_answer>
+        <category>arcade</category>
+    </question>
+    <question>
+        <title> ¿Cuál de los siguientes apodos no pertenecen a un fantasma de Pacman?</title>
+        <answer> Micky/Pinky </answer>
+        <answer> Mocky/Clyde </answer>
+        <answer> Mecky/Bluky </answer>
+        <correct_answer>3</correct_answer>
+        <category>arcade</category>
+    </question>
+    <question>
+        <title> ¿Cuál de los siguientes colores no pertenecen a un fantasma de Pacman?</title>
+        <answer> Verde </answer>
+        <answer> Naranja </answer>
+        <answer> Rosa </answer>
+        <correct_answer>1</correct_answer>
+        <category>arcade</category>
+    </question>
+    <question>
+        <title> ¿De qué color es el fantasma de Pacman que evade los obstáculos en sentido contrahorario?</title>
+        <answer> Verde </answer>
+        <answer> Naranja </answer>
+        <answer> Rosa </answer>
+        <correct_answer>3</correct_answer>
+        <category>arcade</category>
+    </question>
+    <question>
+        <title> ¿Cuál es el nombre del creador del Tetris?</title>
+        <answer> Vladimir </answer>
+        <answer> Alekséi </answer>
+        <answer> Nikolái </answer>
+        <correct_answer>2</correct_answer>
+        <category>arcade</category>
+    </question>
+    <question>
+        <title> ¿Cual es considerado el primer videojuego de la historia?</title>
+        <answer> OXO </answer>
+        <answer> Pong </answer>
+        <answer> Tennis for Two </answer>
+        <correct_answer>1</correct_answer>
+        <category>arcade</category>
+    </question>
+    <question>
+        <title> ¿Quién fue el creador de Spacewar?</title>
+        <answer> Alexander S.Douglas </answer>
+        <answer> Steve Russell </answer>
+        <answer> Nolan Bushnell </answer>
+        <correct_answer>2</correct_answer>
+        <category>arcade</category>
+    </question>
+    <question>
+        <title> ¿En qué década aparecieron los 8 bit?</title>
+        <answer> '70 </answer>
+        <answer> '80 </answer>
+        <answer> '90 </answer>
+        <correct_answer>2</correct_answer>
+        <category>arcade</category>
+    </question>
+    <question>
+        <title> Nier Automata: ¿Cómo le dice 9S a 2B que le suelen llamar?</title>
+        <answer> N </answer>
+        <answer> Nine </answer>
+        <answer> Nines </answer>
+        <correct_answer>3</correct_answer>
+        <category>action</category>
+    </question>
+    <question>
+        <title> ¿Cuantos finales tiene Nier Automata? </title>
+        <answer> 26 </answer>
+        <answer> 18 </answer>
+        <answer> 13 </answer>
+        <correct_answer>1</correct_answer>
+        <category>action</category>
+    </question>
+    <question>
+        <title> ¿Cómo se llama el Pod de 2B en Nier Automata?</title>
+        <answer> Pod 029 </answer>
+        <answer> Pod 042 </answer>
+        <answer> Pod 050 </answer>
+        <correct_answer>2</correct_answer>
+        <category>action</category>
+    </question>
+    <question>
+        <title> ¿En qué año transcurre Bioshock?</title>
+        <answer> 1950 </answer>
+        <answer> 1960 </answer>
+        <answer> 1970 </answer>
+        <correct_answer>2</correct_answer>
+        <category>action</category>
+    </question>
+    <question>
+        <title> ¿En qué año transcurre Bioshock?</title>
+        <answer> 1950 </answer>
+        <answer> 1960 </answer>
+        <answer> 1970 </answer>
+        <correct_answer>2</correct_answer>
+        <category>action</category>
+    </question>
+    <question>
+        <title> ¿Qué recurso consumen los plásmidos de Bioshock al usarse?</title>
+        <answer> ADAM </answer>
+        <answer> EVE </answer>
+        <answer> Vida </answer>
+        <correct_answer>2</correct_answer>
+        <category>action</category>
+    </question>
+    <question>
+        <title> ¿En qué año transcurre Bioshock Infinite?</title>
+        <answer> 1906 </answer>
+        <answer> 1910 </answer>
+        <answer> 1912 </answer>
+        <correct_answer>3</correct_answer>
+        <category>action</category>
+    </question>
+    <question>
+        <title> ¿Quién es el creador de la saga Souls?</title>
+        <answer> Kojima </answer>
+        <answer> Miyamoto </answer>
+        <answer> Miyazaki </answer>
+        <correct_answer>3</correct_answer>
+        <category>action</category>
+    </question>
+    <question>
+        <title> Según la profecía de The Elder Scrolls V: Skyrim ¿cómo se llama el dragón que destruirá el mundo?</title>
+        <answer> Alduin </answer>
+        <answer> Paarthurnax </answer>
+        <answer> Odahviing </answer>
+        <correct_answer>1</correct_answer>
+        <category>action</category>
+    </question>
+    <question>
+        <title> ¿Cómo se llama el esposo de Senua en Hellblade: Senua’s Sacrifice?
+        </title>
+        <answer> Dillion </answer>
+        <answer> Hellheim </answer>
+        <answer> Druth </answer>
+        <correct_answer>1</correct_answer>
+        <category>action</category>
+    </question>
+    <question>
+        <title> ¿Cuál es el nombre del protagonista de la saga Hitman?</title>
+        <answer> Agente 24 </answer>
+        <answer> Agente 47 </answer>
+        <answer> Agente 62 </answer>
+        <correct_answer>2</correct_answer>
+        <category>action</category>
+    </question>
+    <question>
+        <title> ¿Cómo se llama la esposa del protagonista en Resident Evil 7?</title>
+        <answer> Zoe </answer>
+        <answer> Mia </answer>
+        <answer> Marguerite </answer>
+        <correct_answer>2</correct_answer>
+        <category>horror</category>
+    </question>
+    <question>
+        <title> ¿Cómo se llama el protagonista de Amnesia: The Dark Descent?</title>
+        <answer> Daniel </answer>
+        <answer> Alexander </answer>
+        <answer> Luke </answer>
+        <correct_answer>1</correct_answer>
+        <category>horror</category>
+    </question>
+    <question>
+        <title> ¿Cómo se llama el protagonista de Outlast?</title>
+        <answer> Daniel </answer>
+        <answer> Billy </answer>
+        <answer> Miles </answer>
+        <correct_answer>3</correct_answer>
+        <category>horror</category>
+    </question>
+    <question>
+        <title> ¿Cómo se llama el manicomio de Outlast?</title>
+        <answer> Mount Asylum </answer>
+        <answer> Mount Massive </answer>
+        <answer> Mount Center </answer>
+        <correct_answer>2</correct_answer>
+        <category>horror</category>
+    </question>
+    <question>
+        <title> ¿Cómo se llama la corporación de Outlast? </title>
+        <answer> Murkoff </answer>
+        <answer> Upshur </answer>
+        <answer> Peacock </answer>
+        <correct_answer>1</correct_answer>
+        <category>horror</category>
+    </question>
+    <question>
+        <title> ¿Cómo se llama el fundador de la corporación de Outlast?</title>
+        <answer> Dr. Tragger </answer>
+        <answer> Dr. Walker</answer>
+        <answer> Dr. Wernicke </answer>
+        <correct_answer>3</correct_answer>
+        <category>horror</category>
+    </question>
+    <question>
+        <title> ¿Cómo se llama el hijo de Jack y Marguerite Baker en Resident Evil 7?</title>
+        <answer> Lucas </answer>
+        <answer> Daniel </answer>
+        <answer> Ethan </answer>
+        <correct_answer>1</correct_answer>
+        <category>horror</category>
+    </question>
+    <question>
+        <title> ¿Cómo se llama la hija del presidente a la que debes rescatar en Resident Evil 4?</title>
+        <answer> Lisa Graham </answer>
+        <answer> Zoe Graham</answer>
+        <answer> Ashley Graham </answer>
+        <correct_answer>3</correct_answer>
+        <category>horror</category>
+    </question>
+    <question>
+        <title> ¿Qué cantidad de escudo restaura comerse una seta en Fornite?</title>
+        <answer> 5 </answer>
+        <answer> 10 </answer>
+        <answer> 15 </answer>
+        <correct_answer>1</correct_answer>
+        <category>moba_and_battle_royale</category>
+    </question>
+    <question>
+        <title> ¿Qué equipo ganó el primer Campeonato Mundial de League of Legends?</title>
+        <answer> Team Solo Mid - North America </answer>
+        <answer> Samsung Galaxy - Korea </answer>
+        <answer> Fnatic - Europe </answer>
+        <correct_answer>3</correct_answer>
+        <category>moba_and_battle_royale</category>
+    </question>
+    <question>
+        <title>¿Cuál es el nombre completo de Lux, la campeona de League of Legends?</title>
+        <answer> Luxanna Crownguard </answer>
+        <answer> Luxanna Lightguard </answer>
+        <answer> Luxanna Joyguard </answer>
+        <correct_answer>1</correct_answer>
+        <category>moba_and_battle_royale</category>
+    </question>
+    <question>
+        <title> ¿Qué campeón de League of Legends fue consejero personal del emperador Azir?</title>
+        <answer> Nasus </answer>
+        <answer> Renekton </answer>
+        <answer> Xerath </answer>
+        <correct_answer>3</correct_answer>
+        <category>moba_and_battle_royale</category>
+    </question>
+    <question>
+        <title> En el universo alternativo de League of Legends “Guardianas de las Estrellas”, ¿cuál es el grupo sanguíneo de Ezreal?</title>
+        <answer> AB </answer>
+        <answer> B</answer>
+        <answer> O </answer>
+        <correct_answer>2</correct_answer>
+        <category>moba_and_battle_royale</category>
+    </question>
+    <question>
+        <title> ¿En qué engine se desarrolló Battlerite?</title>
+        <answer> Unity </answer>
+        <answer> Unreal Engine </answer>
+        <answer> CryEngine </answer>
+        <correct_answer>1</correct_answer>
+        <category>moba_and_battle_royale</category>
+    </question>
+    <question>
+        <title> ¿En qué año se canceló el desarrollo de Paragon? </title>
+        <answer> 2016 </answer>
+        <answer> 2017 </answer>
+        <answer> 2018 </answer>
+        <correct_answer>3</correct_answer>
+        <category>moba_and_battle_royale</category>
+    </question>
+    <question>
+        <title> ¿Qué campeón de Overwatch es el padre de Brigitte?</title>
+        <answer> Reinhardt </answer>
+        <answer> Torbjörn </answer>
+        <answer> Doomfist </answer>
+        <correct_answer>2</correct_answer>
+        <category>moba_and_battle_royale</category>
+    </question>
+    <question>
+        <title> ¿Cómo se llama el hijo del protagonista de The Forest? </title>
+        <answer> Timmy </answer>
+        <answer> Johnny </answer>
+        <answer> Jeremy </answer>
+        <correct_answer>1</correct_answer>
+        <category>survival</category>
+    </question>
+    <question>
+        <title> ¿Cómo se llama la organización científica en The Forest? </title>
+        <answer> PAC Science </answer>
+        <answer> Sahara Therapeutics </answer>
+        <answer> DHARMA </answer>
+        <correct_answer>2</correct_answer>
+        <category>survival</category>
+    </question>
+    <question>
+        <title> ¿Cómo se llama el experimento de resurrección de The Forest?</title>
+        <answer> Jarius Project </answer>
+        <answer> Lazarus Project </answer>
+        <answer> Obelisk Project </answer>
+        <correct_answer>1</correct_answer>
+        <category>survival</category>
+    </question>
+    <question>
+        <title> ¿En qué engine se desarrolló The Forest? </title>
+        <answer> Unity </answer>
+        <answer> Unreal Engine </answer>
+        <answer> CryEngine </answer>
+        <correct_answer>1</correct_answer>
+        <category>survival</category>
+    </question>
+    <question>
+        <title> ¿En qué engine se desarrolló Astroneer? </title>
+        <answer> Unity </answer>
+        <answer> Unreal Engine </answer>
+        <answer> CryEngine </answer>
+        <correct_answer>2</correct_answer>
+        <category>survival</category>
+    </question>
+    <question>
+        <title> ¿En qué engine se desarrolló Subnautica?</title>
+        <answer> Unity </answer>
+        <answer> Unreal Engine </answer>
+        <answer> CryEngine </answer>
+        <correct_answer>1</correct_answer>
+        <category>survival</category>
+    </question>
+    <question>
+        <title> ¿Cómo se llama la corporación de Subnautica?</title>
+        <answer> Corporación Alterra </answer>
+        <answer> Corporación Aurora</answer>
+        <answer> Corporación Ariadna </answer>
+        <correct_answer>1</correct_answer>
+        <category>survival</category>
+    </question>
+    <question>
+        <title> ¿Qué nombre recibe la dificultad máxima en The Long Dark? </title>
+        <answer> Voyageur </answer>
+        <answer> Interloper </answer>
+        <answer> Pilgrim </answer>
+        <correct_answer>2</correct_answer>
+        <category>survival</category>
+    </question>
+    <question>
+        <title> ¿En qué engine se desarrolló The Long Dark? </title>
+        <answer> Unity </answer>
+        <answer> Unreal Engine </answer>
+        <answer> CryEngine </answer>
+        <correct_answer>1</correct_answer>
+        <category>survival</category>
+    </question>
+    <question>
+        <title> ¿En qué juego apareció por primera vez Mario? </title>
+        <answer> Donkey Kong </answer>
+        <answer> Donkey Kong Jr </answer>
+        <answer> Super Mario Bros </answer>
+        <correct_answer>1</correct_answer>
+        <category>platforms</category>
+    </question>
+    <question>
+        <title> ¿En cuál de los siguientes juegos Mario es el antagonista? </title>
+        <answer> Donkey Kong </answer>
+        <answer> Donkey Kong Jr </answer>
+        <answer> New Super Luigi U </answer>
+        <correct_answer>2</correct_answer>
+        <category>platforms</category>
+    </question>
+    <question>
+        <title> ¿Cuál fue la primera profesión de Mario? </title>
+        <answer> Doctor </answer>
+        <answer> Fontanero </answer>
+        <answer> Carpintero </answer>
+        <correct_answer>3</correct_answer>
+        <category>platforms</category>
+    </question>
+    <question>
+        <title> ¿Cuál fue el primer nombre de Mario? </title>
+        <answer> Pipeman </answer>
+        <answer> Jumpman </answer>
+        <answer> Toolman </answer>
+        <correct_answer>2</correct_answer>
+        <category>platforms</category>
+    </question>
+    <question>
+        <title> ¿A quién debe su nombre Mario? </title>
+        <answer> Mario Segale </answer>
+        <answer> Mario Lewis </answer>
+        <answer> Mario Smith </answer>
+        <correct_answer>1</correct_answer>
+        <category>platforms</category>
+    </question>
+    <question>
+        <title> ¿Cuál fue el primer nombre de la Princesa Peach? </title>
+        <answer> Princesa Koopa </answer>
+        <answer> Princesa Estela </answer>
+        <answer> Princesa Toadstool </answer>
+        <correct_answer>3</correct_answer>
+        <category>platforms</category>
+    </question>
+    <question>
+        <title> ¿Con qué destruye Mario los bloques? </title>
+        <answer> La mente </answer>
+        <answer> La cabeza </answer>
+        <answer> La mano </answer>
+        <correct_answer>3</correct_answer>
+        <category>platforms</category>
+    </question>
+    <question>
+        <title> ¿A qué se debe que el hermano de Mario se llame Luigi? </title>
+        <answer> Al revés “Igiul” significa en japonés gorra verde </answer>
+        <answer> Proviene del japonés “Ruiji” que significa “similar” </answer>
+        <answer> Es el nombre del mejor amigo de Miyamoto </answer>
+        <correct_answer>2</correct_answer>
+        <category>platforms</category>
+    </question>
+    <question>
+        <title> ¿De qué color era el pantalón de Mario antes de la Super Nintendo?</title>
+        <answer> Verde </answer>
+        <answer> Rojo </answer>
+        <answer> Azul </answer>
+        <correct_answer>2</correct_answer>
+        <category>platforms</category>
+    </question>
+    <question>
+        <title> ¿En qué año Mario tuvo voz por primera vez? </title>
+        <answer> 1985 </answer>
+        <answer> 1990 </answer>
+        <answer> 1994 </answer>
+        <correct_answer>3</correct_answer>
+        <category>platforms</category>
+    </question>
+    <question>
+        <title> ¿A quién pertenece la voz de Mario? </title>
+        <answer> Charles Martinet </answer>
+        <answer> Shigeru Miyamoto </answer>
+        <answer> Takashi Tezuka </answer>
+        <correct_answer>1</correct_answer>
+        <category>platforms</category>
+    </question>
+    <question>
+        <title> ¿Cuantos niveles ocultos hay en Super Mario Bros? </title>
+        <answer> 1 </answer>
+        <answer> 257 </answer>
+        <answer> 78 </answer>
+        <correct_answer>2</correct_answer>
+        <category>platforms</category>
+    </question>
+    <question>
+        <title> ¿En qué año fue lanzado el primer Metroid? </title>
+        <answer> 1978 </answer>
+        <answer> 1993 </answer>
+        <answer> 1986 </answer>
+        <correct_answer>3</correct_answer>
+        <category>platforms</category>
+    </question>
+    <question>
+        <title> ¿Cuál es el trabajo de Samus Aran?</title>
+        <answer> Detective </answer>
+        <answer> Cazarrecompensas </answer>
+        <answer> Ingeniera </answer>
+        <correct_answer>2</correct_answer>
+        <category>platforms</category>
+    </question>
+    <question>
+        <title> ¿Qué título es identificado como el juego “hermano” de Metroid durante su desarrollo?</title>
+        <answer> Kid Icarus </answer>
+        <answer> Mario Bros </answer>
+        <answer> Donkey Kong </answer>
+        <correct_answer>1</correct_answer>
+        <category>platforms</category>
+    </question>
+    <question>
+        <title> ¿Cuál es el “remake” de Metroid lanzado en 2004?</title>
+        <answer> Metroid Fusion </answer>
+        <answer> Super Metroid </answer>
+        <answer> Metroid: Zero Mission </answer>
+        <correct_answer>3</correct_answer>
+        <category>platforms</category>
+    </question>
+    <question>
+        <title> ¿Qué son los Metroid?</title>
+        <answer> Organismos </answer>
+        <answer> Gases </answer>
+        <answer> Leyendas </answer>
+        <correct_answer>1</correct_answer>
+        <category>platforms</category>
+    </question>
+    <question>
+        <title> ¿De dónde se tomó el apellido de Samus? </title>
+        <answer> Del actor John Aran </answer>
+        <answer> Del japonés que significa “arena” </answer>
+        <answer> Del jugador brasileño Edson Arantes </answer>
+        <correct_answer>3</correct_answer>
+        <category>platforms</category>
+    </question>
+    <question>
+        <title> ¿De donde proviene la palabra Metroid? </title>
+        <answer> De Space Hunter </answer>
+        <answer> De Metro Station y Android </answer>
+        <answer> De una leyenda japonesa </answer>
+        <correct_answer>2</correct_answer>
+        <category>platforms</category>
+    </question>
+    <question>
+        <title>¿Cuál es el planeta donde se desarrolla Metroid II: The Return of Samus? </title>
+        <answer> SR400 </answer>
+        <answer> SR388 </answer>
+        <answer> SR567 </answer>
+        <correct_answer>2</correct_answer>
+        <category>platforms</category>
+    </question>
+
+
+</questions>
